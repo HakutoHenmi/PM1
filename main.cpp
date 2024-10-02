@@ -2,7 +2,7 @@
 
 int main() {
 
-	printf("Hello world");
+	printf("Hello Visua Staudio Git");
 
 	return 0;
 }
